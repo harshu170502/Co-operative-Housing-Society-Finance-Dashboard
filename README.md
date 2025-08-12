@@ -128,7 +128,7 @@ This dashboard contains real financial data from Laxmi Narayan Cooperative Housi
 - Contact repository owner for any data-related queries or concerns
 
 ## 18. Contact
-**Your Name** - HARSHADA DINESH BEBLE 
+**Name** - HARSHADA DINESH BEBLE 
 **LinkedIn** - https://www.linkedin.com/in/bebleharshada17
 
 Screenshots
